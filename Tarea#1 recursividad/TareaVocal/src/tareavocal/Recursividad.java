@@ -2,7 +2,7 @@ package tareavocal;
 
 /**
  *
- * @author Cristofer
+ * @author Jose Daniel
  */
 public class Recursividad {
 
